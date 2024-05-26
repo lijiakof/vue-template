@@ -1,2 +1,2 @@
-# vue-template
+# VUE Template
 VUE Template
